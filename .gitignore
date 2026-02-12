@@ -1,5 +1,4 @@
 .DS_Store
-.dart_tool/
 
 .pub/
 
@@ -36,9 +35,7 @@ xcuserdata
 Icon?
 .tags*
 
-build/
-.android/
-.ios/
+
 .flutter-plugins-dependencies
 
 # Symbolication related
