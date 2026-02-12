@@ -1,0 +1,2 @@
+/Users/shady/flutter_weather_module/.android/Flutter/.cxx/release/696g1w3j/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/shady/flutter_weather_module/.android/Flutter/.cxx/release/696g1w3j/arm64-v8a/CMakeFiles/rebuild_cache.dir
